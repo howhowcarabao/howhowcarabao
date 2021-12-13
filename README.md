@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning Python.
 
 ### 👩‍💻 Projects & Guides
-Click HERE for my projects and guides.
-View my [Tableau](https://public.tableau.com/app/profile/carlos.vasquez1623) work
+- Click HERE for my projects and guides. 
+- View my [Tableau](https://public.tableau.com/app/profile/carlos.vasquez1623) work
 
 ### 🤝🏻 Connect with Me 
 - [LinkedIn](https://www.linkedin.com/in/carlos-vasquez-11097972/)
